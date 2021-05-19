@@ -24,3 +24,23 @@ static let all = Dictionary( uniqueKeysWithValues: Bundle.main.decode([String: G
 ```
 just a simple code sample from Paul@hackingwithswift.com during iOS accelerator. 
 Great class/session. 
+
+### changes being made on branch dev
+
+```
+//
+//  MovieDetails.swift
+//  MyMovies
+//
+//  Created by Joseph Gomez on 5/12/21.
+//
+
+import Foundation
+
+struct MovieDetails: Decodable {
+let budget: Int
+let revenue: Int
+let runtime: Int
+}
+
+```
