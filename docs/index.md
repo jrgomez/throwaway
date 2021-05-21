@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/jrgomez/throwaway/edit/mai
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Testing our 404 page by providing a broken link to our [about](https://jrgomez.github.io/throwaway/about.html) page. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
